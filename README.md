@@ -32,7 +32,7 @@ bash#: cd DDoS
 ```
    2. Run the script with the target host and port as command-line arguments:
 ```
-bash#: python DDoS.py <target_host> <target_port>
+bash#: python ddos.py <target_host> <target_port>
 ```
 Replace <target_host> and <target_port> with the appropriate values.
 
